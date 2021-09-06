@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+dimensions-covid19-export-2021-07-03-h06-38-27_publications.csv
